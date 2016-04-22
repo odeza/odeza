@@ -35,8 +35,20 @@ a:hover{
 	position:absolute;
 	bottom: 0px;
 	left:0;
-	padding: 15px 0px 10px 0px;
+	
 	color: #171a21;
 	z-index:10;
-	background-color: #eee;
+}
+
+hr{
+	display: block;
+	border:0;
+	border-top: 2px solid yellow;
+}
+
+div.transparent-box{
+    background-color: #eee;
+    opacity: 0.6;
+    padding: 15px 0px 10px 0px;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
 }
