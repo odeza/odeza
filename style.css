@@ -1,0 +1,42 @@
+body {
+				background-color: #171a21;
+				color: #eee;
+				font-family: 'Raleway', sans-serif;
+				font-weight:400;
+}
+
+h1{
+	letter-spacing: 1px;
+}
+
+a {
+	color: #eee;
+	text-decoration:none;
+}
+
+a:hover{
+	color: #bbb;
+}
+
+
+#wrapper{
+	position: relative;
+	width: auto;
+	/*min-width: 450px;*/
+	margin: 17% auto;
+	text-align: center;
+
+}
+
+#footer{
+
+	margin-bottom: 0px;
+	width: 100%;
+	position:absolute;
+	bottom: 0px;
+	left:0;
+	padding: 15px 0px 10px 0px;
+	color: #171a21;
+	z-index:10;
+	background-color: #eee;
+}
