@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/yegamble
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://odeza.nz
+  * I am yegamble (https://keybase.io/yegamble) on keybase.
+  * I have a public key with fingerprint D293 A6C5 CB1E 792E E5FC  107E 7429 CA6B 9012 D9FC
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a8b56e08fc1df8526ba2e500dc8df48b38c39cf22500e7daf40ec48feb1ab00e0a",
+            "fingerprint": "d293a6c5cb1e792ee5fc107e7429ca6b9012d9fc",
+            "host": "keybase.io",
+            "key_id": "7429ca6b9012d9fc",
+            "kid": "0101a8b56e08fc1df8526ba2e500dc8df48b38c39cf22500e7daf40ec48feb1ab00e0a",
+            "uid": "bd28d2f20592e988acc419a5f839e019",
+            "username": "yegamble"
+        },
+        "service": {
+            "hostname": "odeza.nz",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1461912112,
+    "expire_in": 157680000,
+    "prev": "d66d0ca55ef9dbf05a063f984aa8759b0334d5b7f54e63df695565d5dd901b08",
+    "seqno": 32,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMNCAnicrVJrTBRXGF1YFN0tqGBpGxsMs5VCIOTO7MzszEZTTaWJbVHRoMaC2zsz
+d3ZHdneW3QEFUrZgiFhtBSRFfEIbebQFKZho21BFQBGtIsECDbRCBeRRrY/U2qJ2
+hth//dn75+aenHO+853c9hC9zhCgxHalF4cNzARcbi3L1G02BYJcjJOFbMyai6Wj
+2Qs5BeRTbOmSgFkxgAMcMhxFI8CIPC6IDEXQHCQQBYDAM4JIMpyZ4c0sLxKEiiGL
+AEUSIJ5kRMThkFMhALF4TJTcduT1eCW3otoKBGuGNE/xHI4sLIEQpZoDC7KQBMtD
+mmMBTgisyKtCh+zTFGo4DvpQgiSrmPqwzcb7D/7/nDtz1o4TCEYgRAJQaliWYSDP
+kzgLKZExswjgrEb0Ia8bupDKzkZ26OKcCPsgHlPRLIlHWrHaJs8ZsoByYII7R9V5
+vLIi87JTRR2K4vFZNZWS7dFoOxBne25g4yS3oHaoKrKQ1yfJbsyKq0xekTRHnKRx
+FidwnIjH0E6P5EU2SWNQFpoB6tHmoCyteZoWAA8pComswImAgoA2iyxDQshYKJYD
+ZjMpUJxFpEhEmwWRZimKpgRKENSOOcBg2koZbhmzmtVRCrSrnj7J7oZKpldd+Hxr
+apAuwKCbOydQ+1w6w/yF/365qaCFul1JDcbY6LPdQQcz3pgpH2mOwR5tT751u/TP
+mKaC4N7SJxeMdFhE3vgYqg/hP3RUHqBdv31kcOXXHX/33qLBE1Zpx42Wk4eb9Wdi
+Jr5rODT3TNJlW29t87SD7T630lyflrQlbn1BuCs0Jf8KUW4bSBYi/LnX2kJ3BXdn
+dR5+ktZR4g/IPOWa/qHvnb2bz77VVJ3au3vb8peHi6v851ctPbk1dG1RYlicVb92
+Y21ZSE2/b6T/IvGrfuf1H93Dm4zfXzh+FBSZUu9PNBcPuON75hyxTpqO2buetb+f
+aE+xlKB7Mxa8cM/TPW8Xy5EefdxgbOTkeNTd7soOY8LE6YstgfMWvBBZ+GnjPJix
+33RJ9sPdeV3k/L4UdrnX0XFupC1CfwK7u63nmP73my0j17d+dWpmU9TNxG/02Y4a
+Yt3iZz89Cr8KX+orH/76j8L38lYfGOz8m9tS9yVwfRaweF3jsuZVTZduDf5ScajT
+v095kFW2pq3i4Z20JU2h7aOB067koaHW/M8f2IoeZ9940bkMa1zZ88ljKrzjtaML
+bOzenLypuJ+jnvrHejYGu5yJ68Xo1mjy2tXbk6uDS4yjpn3YaLXHli+bKuJdD2vg
+6boVX7SOLaq+8td29tUqMNVARJZ1vb7ioH1DauUSsX6oKa52gnmlTfetd3ypYUOX
+4Ui/8U5pQvT9Nwuq+DUf/wPz2sKf
+=kCCJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yegamble
+
+==================================================================
